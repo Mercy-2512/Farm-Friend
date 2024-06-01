@@ -13,7 +13,7 @@ class ChatBot extends StatefulWidget {
 
 class _ChatBotState extends State<ChatBot> {
   final TextEditingController _userInput = TextEditingController();
-  static const apiKey = "AIzaSyBkAB8_H29ErJ2yFAZFckgbVFhhQYhzHrk";
+  static const apiKey = "YOUR_API_KEY";
   final model = GenerativeModel(model: 'gemini-pro', apiKey: apiKey);
   final List<Message> _messages = [];
 
