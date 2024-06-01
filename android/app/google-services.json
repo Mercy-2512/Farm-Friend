@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396490251686",
+    "project_id": "priee-89f1f",
+    "storage_bucket": "priee-89f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396490251686:android:362a8b6b43508b45f8c367",
+        "android_client_info": {
+          "package_name": "com.example.priee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396490251686-mrpl9i71c4g6vaml1r6p48m6otmfbg89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priee",
+            "certificate_hash": "80c6a147b6ba7384491bcae694ca14cb1c765931"
+          }
+        },
+        {
+          "client_id": "396490251686-lh7t2bj7d821toslh2vjchsukr4r4ut1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDym_Q247bUyJoAiiKrTcU_SjSQSXuQDPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396490251686-lh7t2bj7d821toslh2vjchsukr4r4ut1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
